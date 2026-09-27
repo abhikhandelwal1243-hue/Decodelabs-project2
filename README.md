@@ -82,5 +82,65 @@ python3 project2.py
 ## 💻 Example Output
 
 ```text
-===== EXPENSE T
+===== EXPENSE TRACKER =====
+Enter your expenses one by one.
+Enter 0 when you are finished.
+
+Enter expense amount: ₹250
+Added: ₹250.00
+
+Enter expense amount: ₹100.50
+Added: ₹100.50
+
+Enter expense amount: ₹50
+Added: ₹50.00
+
+Enter expense amount: ₹0
+
+============================
+💰 Total Spent: ₹400.50
+============================
+Thank you for using Expense Tracker!
 ```
+
+## 🎯 Learning Objectives
+
+This project helped me practice:
+
+* Python variables
+* User input
+* Type conversion
+* `while` loops
+* Conditional statements
+* Exception handling
+* Basic arithmetic operations
+* String formatting
+* Input validation
+
+## 🚀 Future Improvements
+
+The project can be extended with:
+
+* 📅 Expense dates
+* 🏷️ Expense categories
+* 📊 Category-wise spending
+* 💾 Saving expenses to a file
+* 📈 Monthly expense reports
+* 🔍 Expense search
+* 🖥️ Graphical User Interface (GUI)
+* 🗄️ Database integration
+
+## 👨‍💻 Author
+
+**Abhishek Sharma**
+
+GitHub: **abhikhandelwal1243-hue**
+
+## ⭐ Project Status
+
+**Completed – Project 2**
+
+This project was created as part of my **Python programming and internship learning journey**.
+
+If you find this project useful, consider giving the repository a ⭐.
+
